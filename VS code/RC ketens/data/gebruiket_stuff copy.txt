@@ -1,0 +1,36 @@
+Data - proef 1
+C = 10 microF
+R = 10 kOhm
+t = ln(100)RC = 4.6 s → 2.2 Hz is minimum
+
+Data - proef 2
+Zelfde C en R, resonantiefrequentie = 1 / RC = 2.2
+
+RLC-circuit - proef 3
+TEST1: demping
+frequentie = 0.6 Hz
+eerste kring: R = 100k, L = 2.2m, C = 3.3n
+tweede kring: R = 100k, L = 2.2m, C = 15n
+derde kring: R = 100k, L = 2.2m, C = 10micro
+vierde kring: R = 10k, L = 2.2m, C = 10micro
+vijfde kring: R = 100, L = 2.2m, C = 10micro
+
+TEST2: Resonantiefrequentie (op digitale oscilloscoop)
+R = 100, L = 2.2m, C = 10micro (over weerstand gemeten ipv over condensator) zodat pieken samenvallen
+We meten elke keer de piek van het uitgangssignaal om aan te tonen dat resonantie rond +- 1000Hz (1/(2*pi*sqrt(LC)))
+
+f(Hz)		piek (V) #f IS GEEN OMEGA
+100		    3.52
+200		    4.40
+400		    4.70
+600		    4.72
+800		    4.76
+900		    4.78
+1000		4.80
+1100		4.76
+1200		4.76
+1400		4.74
+1600		4.72
+1800		4.72
+2200		4.72
+10000		3.50

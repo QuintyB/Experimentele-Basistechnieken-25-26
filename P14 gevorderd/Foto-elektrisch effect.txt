@@ -1,0 +1,116 @@
+OPSTELLING
+I = 0.41 A (kapot)
+V = 3.0 V
+multimeter van de amplifier wordt op 0 gezet door op de knop te draaien
+nulpunt heeft +-0.5 schommeling
+
+(elke waarde in kollomen is in V → elke volt is 10 nA)
+
+
+PROEF 1A
+
+lens oranje
+
+V (rheostaat)	V (amplifier) 	dV (rheostaat)	dV (amplifier)
+0.0006		0.202		0.0001		0.010
+0.101		0.173		0.001		0.005
+0.196		0.135		0.001		0.005
+0.296		0.090		0.001		0.005
+0.348		0.064		0.001		0.005
+0.397		0.045		0.001		0.005
+0.498		0.020		0.001		0.005
+0.600		0.015		0.001		0.010
+1.001		0.010		0.001		0.010
+2.00		0.000		0.01		0.010
+
+lens groen
+
+V (rheostaat)	V (amplifier) 	dV (rheostaat)	dV (amplifier)
+0.0006		0.140		0.0001		0.005
+0.097		0.115		0.001		0.005
+0.204		0.100		0.001		0.005
+0.296		0.070		0.001		0.010
+0.396		0.045		0.001		0.010
+0.498		0.030		0.001		0.010
+0.601		0.015		0.001		0.010
+0.699		0.007		0.001		0.005
+
+lens blauw
+
+V (rheostaat)	V (amplifier) 	dV (rheostaat)	dV (amplifier)
+0.0006		0.020		0.0001		0.010
+0.096		0.012		0.001		0.010
+0.198		0.007		0.001		0.010
+0.296		0.000		0.001		0.010
+
+lens zilver
+
+V (rheostaat)	V (amplifier) 	dV (rheostaat)	dV (amplifier)
+0.0006		0.015		0.0001		0.010
+0.106		0.000		0.001		0.010
+
+lens zilver (met paars lichtje erdoor)
+
+V (rheostaat)	V (amplifier) 	dV (rheostaat)	dV (amplifier)
+0.0006		0.040		0.0001		0.010
+0.103		0.030		0.001		0.010
+0.204		0.026		0.001		0.010
+0.395		0.000		0.001		0.010
+
+
+PROEF 1B
+Voor de oranje lamp hebben we al l=0m (zie 1A)
+
+op l=3cm (afgedekt met papier om buitenlicht tegen te gaan)
+
+V (rheostaat)	V (amplifier) 	dV (rheostaat)	dV (amplifier)
+0.0006		0.100		0.0001		0.010
+0.108		0.080		0.001		0.010
+0.198		0.070		0.001		0.010
+0.296		0.050		0.001		0.010
+0.397		0.040		0.001		0.010
+0.497		0.025		0.001		0.010
+0.606		0.018		0.001		0.010
+0.708		0.013		0.001		0.010
+0.795		0.005		0.001		0.010
+
+op l=6cm
+
+V (rheostaat)	V (amplifier) 	dV (rheostaat)	dV (amplifier)
+0.0006		0.100		0.0001		0.010
+0.100		0.100		0.001		0.010
+0.208		0.073		0.001		0.010
+0.296		0.047		0.001		0.010
+0.396		0.030		0.001		0.010
+0.496		0.023		0.001		0.010
+0.619		0.012		0.001		0.010
+0.703		0.000		0.001		0.010
+
+op l=9cm
+
+V (rheostaat)	V (amplifier) 	dV (rheostaat)	dV (amplifier)
+0.0006		0.070		0.0001		0.010
+0.097		0.050		0.001		0.010
+0.197		0.042		0.001		0.010
+0.296		0.027		0.001		0.010
+0.395		0.026		0.001		0.010
+0.493		0.018		0.001		0.010
+0.597		0.015		0.001		0.010
+0.697		0.000		0.001		0.010
+
+op l=12cm (omgeving heeft heel veel invloed → geen zin meer te veel invloed van buitenlicht, niet oké)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

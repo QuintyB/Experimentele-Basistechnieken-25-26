@@ -1,0 +1,208 @@
+10% → 100/m metingen
+achtergrond reeds gebeurd
+
+zonder aluminium → enkel gamma zonder alpha (>5 metingen nodig)
+
+78
+79
+68
+72
+67
+76
+81
+
+0.1mm aluminium (>2 nodig)
+
+70
+67
+76
+73
+63
+
+0.2mm aluminium (>2 nodig)
+
+73
+67
+58
+74
+67
+
+0.3 mm aluminium (>2 nodig)
+
+56
+68
+52
+60
+52
+
+0.4 mm (>2 nodig)
+
+57
+55
+49
+49
+55
+
+0.5 mm (>2 nodig)
+
+55
+60
+45
+47
+59
+
+0.6 mm (>2 metingen)
+
+44
+53
+52
+53
+39
+
+0.7 mm (>2 metingen)
+
+54
+37
+53
+43
+49
+
+0.8 mm (>2 metingen)
+
+46
+58
+47
+37
+52
+
+0.9 mm (>2 metingen)
+
+37
+47
+55
+51
+39
+
+1 mm (>2 metingen)
+
+44
+37
+33
+51
+35
+
+1.5mm (>3 metingen)
+
+26
+41
+32
+41
+44
+
+2 mm (>3 metingen)
+
+45
+24
+36
+34
+30
+
+2.5 mm (>4 metingen)
+
+35
+30
+27
+26
+34
+
+3 mm (>4 metingen)
+
+17
+39
+24
+32
+47
+36
+
+3.5 mm (>3 metingen)
+
+44
+29
+32
+30
+26
+28
+
+4 mm (>4 metingen)
+
+31
+22
+25
+26
+26
+22
+
+5 mm (>5 metingen)
+
+18
+19
+32
+27
+30
+23
+25
+
+6 mm (>6 metingen)
+
+15
+17
+26
+28
+19
+21
+17
+28
+
+7 mm
+
+18
+16
+23
+24
+24
+24
+34
+
+8 mm
+
+16
+25
+20
+20
+22
+20
+16
+23
+
+9 mm
+
+16
+25
+20
+20
+22
+20
+16
+23
+
+
+
+
+
+
+
+
+
+
+
+

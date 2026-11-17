@@ -1,0 +1,16 @@
+from fit_file import X_sq
+import numpy as np
+
+data = np.loadtxt("Datasets/9.txt", delimiter = " ").T
+x = data[0]*1e-3
+y = data[1]
+dy = np.sqrt(y)
+dx = np.zeros_like(x)
+
+param_names = ["A", "x0", "gamma", "y0"]
+
+def model(params, x):
+    A, x0, gamma, y0 = params
+    return A / np.pi * gamma/((x - x0)**2 + gamma**2) + y0
+
+X_sq(((x, dx), (y, dy)), param_names, (0.71, 0.00015, 0.00023, 100), model)
